@@ -1,5 +1,5 @@
 # _k_-Centres Distributional Clustering 
-This repository provides R code implementing the _k_-centres distributioinal clustering, as proposed by [2]. 
+This repository provides R codes implementing the _k_-centres distributioinal clustering, as proposed by [2]. 
 
 The repository includes the following files.
 - `HelperFunctions.cpp`: Helper functions for implementations of an algorithm proposed by [1] for solving convex PCA

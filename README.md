@@ -12,6 +12,7 @@ The repository includes the following files.
 - `ClusteringFunctions.R`: Functions for implementations of some existing clustering methods
 - `Simulation.R`: Example of applying the proposed and some existing clustering methods to a simulated data
 - `RealDataAnalysis.R`: Example of applying the proposed and some existing clustering methods to a real data
+- `PopulationData.RData`: Rdata for application
 
 
 

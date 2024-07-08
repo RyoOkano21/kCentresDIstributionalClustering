@@ -2,8 +2,8 @@
 This repository provides R codes implementing the _k_-centres distributioinal clustering, as proposed by [2]. 
 
 The repository includes the following files.
-- `HelperFunctions.cpp`: Helper functions for implementations of an algorithm proposed by [1] for solving convex PCA
-- `CPCAFunctions.R`: Functions for implenetations of convex PCA 
+- `HelperFunctions.cpp`: Helper functions used in `CPCAFunctions.R` 
+- `CPCAFunctions.R`: Functions for implenetations of convex PCA. An algorithm proposed by [1] is used for solving convex PCA problems
 - `GPCAFunctions.R`: Functions for implenetations of geodesic PCA in the Wasserstein space
 - `kCDC.R`: Functions for implementaitons of the proposed method
 - `ClusteringFunctions.R`: Functions for implementations of some existing clustering methods

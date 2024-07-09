@@ -3,13 +3,15 @@ This repository provides R codes implementing the _k_-centres distributioinal cl
 
 The repository includes the following files.
 - `HelperFunctions.cpp`: Helper functions used in `CPCAFunctions.R` 
-- `CPCAFunctions.R`: Functions for implenetations of convex PCA. An algorithm developed by [1] is used for solving convex PCA problems
+- `CPCAFunctions.R`: Functions for implenetations of convex PCA
 - `GPCAFunctions.R`: Functions for implenetations of geodesic PCA in the Wasserstein space
 - `kCDC.R`: Functions for implementaitons of the proposed method
 - `ClusteringFunctions.R`: Functions for implementations of some existing clustering methods
 - `Simulation.R`: Example of applying the proposed and some existing clustering methods to a simulated data
 - `RealDataAnalysis.R`: Example of applying the proposed and some existing clustering methods to a real data
 - `PopulationData.RData`: Population dataset used in `RealDataAnalysis.R`
+
+For solving convex PCA problems, we use an algorithm developed by [1].
 
 # References
 [1] Campbell, S. and T.-K. L. Wang (2022). Effifient Convex PCA with application to Wasserstein geodesic PCA and ranked data. _arXiv preprint arXiv:2211.02990_.

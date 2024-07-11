@@ -14,6 +14,8 @@ The repository includes the following files.
 For solving convex PCA problems, we use an algorithm developed by [1]. 
 The dataset in `PopulationData.RData` is downloaded from STATcube – Statistical Database of Statistics Austria (https://www.statistik.at/en/databases/statcube-statistical-database).
 
+Please contact `okano-ryo1134 (at) g.ecc.u-tokyo.ac.jp` if you have any comments.
+
 # References
 [1] Campbell, S. and T.-K. L. Wang (2022). Effifient Convex PCA with application to Wasserstein geodesic PCA and ranked data. _arXiv preprint arXiv:2211.02990_.
 

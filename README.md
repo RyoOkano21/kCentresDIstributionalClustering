@@ -11,7 +11,8 @@ The repository includes the following files.
 - `RealDataAnalysis.R`: Example of applying the proposed and some existing clustering methods to a real data
 - `PopulationData.RData`: Population dataset used in `RealDataAnalysis.R`
 
-For solving convex PCA problems, we use an algorithm developed by [1]. The dataset in `PopulationData.RData` is downloaded from STATcube – Statistical Database of Statistics Austria (https://www.statistik.at/en/databases/statcube-statistical-database).
+For solving convex PCA problems, we use an algorithm developed by [1]. 
+The dataset in `PopulationData.RData` is downloaded from STATcube – Statistical Database of Statistics Austria (https://www.statistik.at/en/databases/statcube-statistical-database).
 
 # References
 [1] Campbell, S. and T.-K. L. Wang (2022). Effifient Convex PCA with application to Wasserstein geodesic PCA and ranked data. _arXiv preprint arXiv:2211.02990_.

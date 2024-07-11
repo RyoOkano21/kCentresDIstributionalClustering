@@ -19,7 +19,7 @@ Please contact `okano-ryo1134 (at) g.ecc.u-tokyo.ac.jp` if you have any comments
 # References
 [1] Campbell, S. and T.-K. L. Wang (2022). Effifient Convex PCA with application to Wasserstein geodesic PCA and ranked data. _arXiv preprint arXiv:2211.02990_.
 
-[2] Okano, R. and M. Imaizumi (2024). Wasserstein _k_-Centres Clustering for Distributional Data. _arXiv preprint arXiv:????_.
+[2] Okano, R. and M. Imaizumi (2024). Wasserstein _k_-Centres Clustering for Distributional Data. _arXiv preprint arXiv:?????_.
 
 
 

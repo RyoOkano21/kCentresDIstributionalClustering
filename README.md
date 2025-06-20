@@ -17,9 +17,9 @@ The dataset in `PopulationData.RData` is downloaded from STATcube – Statistica
 Please contact `okano-ryo1134 (at) g.ecc.u-tokyo.ac.jp` if you have any comments.
 
 # References
-[1] Campbell, S. and T.-K. L. Wang (2022). Effifient Convex PCA with application to Wasserstein geodesic PCA and ranked data. _arXiv preprint arXiv:2211.02990_.
+[1] Campbell, S. and T.-K. L. Wang (2022). Effifient Convex PCA with application to Wasserstein geodesic PCA and ranked data. _Journal of Computational and Graphical Statistics, 34_(2), 540–551.
 
-[2] Okano, R. and M. Imaizumi (2024). Wasserstein _k_-Centres Clustering for Distributional Data. _arXiv preprint arXiv:2407.08228_.
+[2] Okano, R. and M. Imaizumi (2024). Wasserstein _k_-Centres Clustering for Distributional Data. _Statistics and Computing, 35_.
 
 
 
